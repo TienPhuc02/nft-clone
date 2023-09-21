@@ -8,7 +8,7 @@ const App = () => {
         <div className="content-container-left">
           <ContentLeft />
         </div>
-        <div className="content-container-right col-start-2 col-span-6">
+        <div className="content-container-right col-start-2 col-span-6 w-[1124px]">
           <ContentRight />
         </div>
       </div>
