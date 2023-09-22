@@ -7,7 +7,7 @@ import ToggleButton from "./ToggleButton";
 
 const ContentLeft = () => {
   return (
-    <div className="mt-[30px] pr-[20px] border-r-[1px] ">
+    <div className="content-left-container mt-[30px] px-[20px] border-r-[1px] w-full ">
       <HeaderLogo />
       <div className="nav-items-content-left mt-[40px]">
         <ContentMenuHome />
